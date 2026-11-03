@@ -1,0 +1,8 @@
+# Grafo DIRIGIDO con pesos negativos, SIN ciclos negativos, para Bellman-Ford y Johnson
+# Los pesos negativos representan compensaciones de presion en la red (no distancias reales)
+R,EB1,4
+R,EB2,2
+EB1,EB2,-3
+EB1,T1,5
+EB2,T1,2
+T1,Z1,-1

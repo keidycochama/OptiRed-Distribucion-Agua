@@ -1,0 +1,11 @@
+# Grafo DIRIGIDO mediano, con pesos negativos pero SIN ciclos negativos,
+# para comparar Floyd-Warshall y Johnson (caminos entre todos los pares)
+R,EB1,3
+R,EB2,8
+R,Z1,-4
+EB1,T1,1
+EB1,Z1,7
+EB2,EB1,4
+T1,R,2
+T1,EB2,-5
+Z1,T1,6

@@ -1,0 +1,10 @@
+# Grafo DIRIGIDO y ponderado, sin pesos negativos, para probar Dijkstra
+# El peso representa la distancia (km) de tuberia entre puntos de la red
+R,EB1,4
+R,EB2,2
+EB1,T1,5
+EB2,T1,8
+EB2,Z1,10
+T1,Z1,2
+T1,Z2,6
+Z1,Z2,3

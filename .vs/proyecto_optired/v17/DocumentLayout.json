@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samuel\\Downloads\\proyecto_optired\\proyecto_optired\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD219B6-3086-41B1-995B-65C31EF05AC8}|proyecto_optired.pyproj|C:\\Users\\samuel\\Downloads\\proyecto_optired\\proyecto_optired\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FCD219B6-3086-41B1-995B-65C31EF05AC8}|proyecto_optired.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD219B6-3086-41B1-995B-65C31EF05AC8}|proyecto_optired.pyproj|C:\\Users\\samuel\\Downloads\\proyecto_optired\\proyecto_optired\\src\\graph_plot.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FCD219B6-3086-41B1-995B-65C31EF05AC8}|proyecto_optired.pyproj|solutionrelative:src\\graph_plot.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD219B6-3086-41B1-995B-65C31EF05AC8}|proyecto_optired.pyproj|C:\\Users\\samuel\\Downloads\\proyecto_optired\\proyecto_optired\\src\\graph.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FCD219B6-3086-41B1-995B-65C31EF05AC8}|proyecto_optired.pyproj|solutionrelative:src\\graph.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\samuel\\Downloads\\proyecto_optired\\proyecto_optired\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\samuel\\Downloads\\proyecto_optired\\proyecto_optired\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAANUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-04T00:37:47.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "graph.py",
+              "DocumentMoniker": "C:\\Users\\samuel\\Downloads\\proyecto_optired\\proyecto_optired\\src\\graph.py",
+              "RelativeDocumentMoniker": "src\\graph.py",
+              "ToolTip": "C:\\Users\\samuel\\Downloads\\proyecto_optired\\proyecto_optired\\src\\graph.py",
+              "RelativeToolTip": "src\\graph.py",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-04T00:18:58.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "graph_plot.py",
+              "DocumentMoniker": "C:\\Users\\samuel\\Downloads\\proyecto_optired\\proyecto_optired\\src\\graph_plot.py",
+              "RelativeDocumentMoniker": "src\\graph_plot.py",
+              "ToolTip": "C:\\Users\\samuel\\Downloads\\proyecto_optired\\proyecto_optired\\src\\graph_plot.py",
+              "RelativeToolTip": "src\\graph_plot.py",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-29T03:11:08.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# Red de flujo (capacidades de tuberia en litros/segundo)
+# Fuente: R (reservorio principal)  |  Sumidero: Z1 (zona de consumo final)
+R,EB1,16
+R,EB2,13
+EB1,T1,12
+EB1,EB2,10
+EB2,T2,14
+T1,EB2,9
+T1,Z1,20
+T2,T1,7
+T2,Z1,4

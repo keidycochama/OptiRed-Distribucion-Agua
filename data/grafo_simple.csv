@@ -1,0 +1,12 @@
+# Grafo NO ponderado para probar BFS y DFS
+# Red simplificada: Reservorio -> Estaciones de bombeo -> Zonas de consumo
+R,EB1,1
+R,EB2,1
+EB1,Z1,1
+EB1,Z2,1
+EB2,Z3,1
+Z1,Z4,1
+Z2,Z4,1
+Z3,Z5,1
+# Componente separado (no alcanzable desde R): zonas Z6 y Z7 aun no conectadas a la red
+Z6,Z7,1

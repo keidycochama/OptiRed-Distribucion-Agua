@@ -1,0 +1,9 @@
+# OptiRed - Dependencias
+# Todo el proyecto usa solo la libreria estandar de Python, EXCEPTO
+# la visualizacion grafica de la red (src/graph_plot.py), que necesita
+# matplotlib para dibujar el diagrama de nodos y aristas.
+#
+# Instalar con:
+#   pip install -r requirements.txt
+
+matplotlib>=3.5

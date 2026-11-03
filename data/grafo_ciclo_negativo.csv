@@ -1,0 +1,6 @@
+# Grafo DIRIGIDO con un ciclo negativo alcanzable desde el origen R
+# Sirve para probar la deteccion de ciclos negativos en Bellman-Ford
+R,EB1,1
+EB1,EB2,-1
+EB2,R,-1
+EB1,Z1,3
