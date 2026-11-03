@@ -1,8 +1,6 @@
 # OptiRed — Sistema de Análisis y Optimización de Redes
 ### Aplicado a una Red de Distribución de Agua
 
-Proyecto Parcial II — Programación III
-
 ## Descripción
 
 El sistema modela una **red de distribución de agua** (reservorio, estaciones
@@ -44,31 +42,6 @@ La ventana está dividida en dos partes:
   - Rutas más cortas → el camino encontrado, con flechas (rojo).
   - Flujo máximo → las tuberías con flujo enviado (azul), mostrando
     "enviado/capacidad" en vez del peso.
-
-## Abrir el proyecto en Visual Studio 2022
-
-Este proyecto incluye los archivos `proyecto_optired.sln` y
-`proyecto_optired.pyproj`, por lo que se puede abrir directamente como un
-**proyecto de Python en Visual Studio 2022** (como cualquier otro proyecto
-de VS), en vez de solo tener sueltos los archivos `.py`.
-
-Pasos:
-
-1. Instalar en Visual Studio 2022 el workload **"Desarrollo de Python"**
-   (Visual Studio Installer → Modificar → marcar "Python development").
-2. Doble clic en `proyecto_optired.sln` para abrir la solución.
-3. En el Explorador de soluciones aparecerán las carpetas `src/`, `data/`,
-   `tests/` y `docs/`, y el archivo `main.py` marcado como **Startup File**
-   (con negrita) — el que se ejecuta al presionar F5 o el boton "Start".
-4. Si es la primera vez, Visual Studio pedira seleccionar el **interprete
-   de Python** instalado en tu equipo (Python 3.8+). Se selecciona el que
-   ya tengas instalado (no requiere librerias externas, solo la libreria
-   estandar).
-5. Presionar **F5** (o el boton verde "Start") para ejecutar la interfaz
-   grafica (Tkinter).
-
-También se puede seguir ejecutando desde consola sin Visual Studio, como se
-explica a continuación.
 
 ## Ejecución por consola (alternativa)
 
@@ -144,7 +117,3 @@ solo importa esas funciones y arma la interfaz gráfica.
 cd proyecto_optired
 python -m unittest tests/test_algoritmos.py -v
 ```
-
-## Autor
-
-Samuel — UNSAAC — Programación III — Grupo 3 (Red de distribución de agua)
